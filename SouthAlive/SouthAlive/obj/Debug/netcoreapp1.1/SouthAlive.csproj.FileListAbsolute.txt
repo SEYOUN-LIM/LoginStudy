@@ -1,0 +1,5 @@
+c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.deps.json
+c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.runtimeconfig.json
+c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.runtimeconfig.dev.json
+c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.dll
+c:\SouthAlive\SouthAlive\SouthAlive\obj\Debug\netcoreapp1.1\SouthAlive.AssemblyInfo.cs
