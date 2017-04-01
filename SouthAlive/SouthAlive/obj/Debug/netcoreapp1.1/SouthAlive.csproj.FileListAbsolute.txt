@@ -3,3 +3,4 @@ c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.runtimeco
 c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.runtimeconfig.dev.json
 c:\SouthAlive\SouthAlive\SouthAlive\bin\Debug\netcoreapp1.1\SouthAlive.dll
 c:\SouthAlive\SouthAlive\SouthAlive\obj\Debug\netcoreapp1.1\SouthAlive.AssemblyInfo.cs
+c:\SouthAlive\SouthAlive\SouthAlive\obj\Debug\netcoreapp1.1\SouthAlive.csprojResolveAssemblyReference.cache
